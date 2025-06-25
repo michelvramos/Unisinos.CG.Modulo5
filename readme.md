@@ -1,0 +1,3 @@
+# Instruções
+
+O binário está na pasta `binaries/Debug`.
